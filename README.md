@@ -1,2 +1,2 @@
 # mobi_hng
-First repo in the hng internship
+First repository in the hng internship.
